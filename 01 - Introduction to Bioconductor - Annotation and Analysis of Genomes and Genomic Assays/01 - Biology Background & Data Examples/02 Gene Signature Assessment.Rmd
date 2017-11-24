@@ -2,7 +2,7 @@
 title: "Gene Signature Assessment"
 author: "Stephen Blatti"
 date: "November 20, 2017"
-output: pdf_document
+output: word_document
 ---
 
 ```{r setup, include=FALSE}

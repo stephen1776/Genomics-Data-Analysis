@@ -45,7 +45,7 @@ Select one:
 
 How many times does this pattern appear?:
 ```{r}
-# ?countPattern
+?countPattern
 chr11seq <- BSgenome.Hsapiens.UCSC.hg19[["chr11"]]
 seqs <- c("ATG","TGA","TAA","TAG")
 cp <- sapply(seqs,function(x){
@@ -60,7 +60,7 @@ Now we move to a question about chromosome 7. Read the help page for the functio
 
 What proportion are Cs (including counts of N in the total)
 ```{r}
-# ?alphabetFrequency
+?alphabetFrequency
 chr7seq <- BSgenome.Hsapiens.UCSC.hg19[["chr7"]]
 alphabetFrequency(chr7seq,as.prob=TRUE)
 ```
@@ -98,8 +98,8 @@ Install the gwascat package and check the version of the GWAS catalog stored in 
 
 
 ```{r}
-# library(BiocInstaller)
-# biocLite("gwascat")
+library(BiocInstaller)
+biocLite("gwascat")
 ```
 ```{r}
 library(gwascat)

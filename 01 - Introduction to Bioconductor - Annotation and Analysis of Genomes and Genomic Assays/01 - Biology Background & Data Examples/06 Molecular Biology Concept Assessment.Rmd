@@ -1,0 +1,52 @@
+---
+title: "Molecular Biology Concept Assessment"
+author: "Stephen Blatti"
+date: "November 24, 2017"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### Molecular biology
+In a single cell, how many RNA copies of a given gene are there?
+1 copy
+2 copies
+3 copies
+varies correct
+
+    The number of copies of RNA depends on how much the gene is being transcribed. “Housekeeping genes” such as those used to make ribosomal or transfer RNA are transcribed at a high rate, while others, such as mRNA for some transcription factors, are transcribed less frequently. Some genes are not transcribed at all in certain cell types.
+
+
+### DNA Copies
+
+In a typical somatic human cell, before DNA replication, how many DNA copies are there for most genes (ignore X and Y chromosomes)?
+    
+    1 copy
+    2 copies c
+    3 copies
+    4 copies
+
+    Humans are a diploid species, meaning the somatic cells typically contain two copies of the autosomal (not X or Y) chromosomes, before S phase in which the chromosomes are duplicated.
+
+### Genetic Inheritence
+
+Which of the following is most likely to be inherited in all the cells of all your body across a generation (e.g. from either of your parents to you)? That is, which is part of the major component of inheritance.
+
+    a SNP (single nucleotide polymorphism) c
+    an individual fragment of mRNA
+    an individual transcription factor protein
+
+
+    Genetic information, such as single nucleotide polymorphisms, have a chance of being transmitted across generations. mRNA transcripts and proteins such as transcription factors degrade over time and, most importantly, do not replicate themselves. In other words, DNA (not proteins or RNA) is known as the main molecule of genetic inheritance. (Side note: There are cases of mRNA and proteins being temporarily inherited, for example the mRNA which are in the egg cell at the moment it is fertilized by the sperm cell.)
+    
+### Comparing yeast colonies
+
+As a yeast cell of species S. cerevisiae passes from cell-cycle phase G1 to phase S, a bud begins to form and enlarge. When we distinguish between yeast colonies in the pre-budding and budding conditions, we are comparing
+
+    gene expression patterns
+    phenotypic states c
+    genetic profiles 
+
+
+    The existence or nonexistence of the bud is a low-dimensional characteristic of the organism.

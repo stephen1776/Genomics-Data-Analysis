@@ -2,7 +2,7 @@
 title: "Startup Assessment"
 author: "Stephen Blatti"
 date: "November 11, 2017"
-output: pdf_document
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
